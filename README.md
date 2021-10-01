@@ -2,7 +2,7 @@
 A tuitorial for beginner using git
 
 ## Configure your git
-1. git config --gloabl user.email "email"
+1. git config --global user.email "email"
 2. git config --global user.name "name"
 
 ## Steps to initialize v.1
